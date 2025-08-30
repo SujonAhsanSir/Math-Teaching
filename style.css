@@ -1,0 +1,277 @@
+Sujon Ahsan, [8/30/2025 6:01 PM]
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Math by Sir | Online & Offline Tuition</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="Class 9 থেকে Honors 4th Year পর্যন্ত গণিত—অনলাইন ও অফলাইন টিউশন। রুটিন, ফি, ভর্তি ও যোগাযোগ।" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="logo" href="#">Math by <span>Sir</span></a>
+      <nav>
+        <a href="#about">পরিচিতি</a>
+        <a href="#courses">কোর্স</a>
+        <a href="#schedule">রুটিন</a>
+        <a href="#pricing">ফি</a>
+        <a href="#testimonials">রিভিউ</a>
+        <a href="#contact" class="btn small">যোগাযোগ</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero-grid">
+      <div>
+        <h1>ক্লাস ৯ থেকে অনার্স ৪র্থ বর্ষ পর্যন্ত <br>প্রফেশনাল <span class="accent">গণিত</span> টিউশন</h1>
+        <p>অনলাইন (Zoom/Google Meet) ও অফলাইনে ব্যাচ/১:১ ক্লাস। দুর্বল ভিত্তি থেকে অ্যাডভান্স—ধাপে ধাপে শেখানো হয়, বোর্ড + ভর্তি + ইউনিভার্সিটি সিলেবাস কভার করা হয়।</p>
+        <div class="cta">
+          <a class="btn" href="#contact">ভর্তি/কথা বলুন</a>
+          <a class="btn ghost" href="https://wa.me/8801XXXXXXXXX" aria-label="WhatsApp">WhatsApp</a>
+        </div>
+      </div>
+      <div class="card modes">
+        <h3>ক্লাস মোড</h3>
+        <ul>
+          <li><strong>Online:</strong> Zoom/Meet, রেকর্ডিং, PDF নোট</li>
+          <li><strong>Offline:</strong> আপনার লোকেশনে/কোচিং সেন্টারে</li>
+          <li><strong>Batch:</strong> 5–15 জন | <strong>১:১:</strong> কাস্টম সিলেবাস</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section">
+    <div class="container grid-2">
+      <div>
+        <h2>আমি কে</h2>
+        <p>আমি <strong>[আপনার নাম]</strong>—[বিশ্ববিদ্যালয়/বিভাগ] থেকে [ডিগ্রি]। গণিত পড়াচ্ছি <strong>[X]</strong> বছর ধরে। বোর্ড পরীক্ষা, ভর্তি প্রস্তুতি এবং বিশ্ববিদ্যালয়ের Calculus, Linear Algebra, Real Analysis, Complex, Differential Equations ইত্যাদিতে স্পেশাল ফোকাস।</p>
+        <ul class="ticks">
+          <li>কনসেপ্ট-ফার্স্ট ব্যাখ্যা + প্রচুর এক্সাম্পল</li>
+          <li>সাপ্তাহিক মডেল টেস্ট ও অগ্রগতি ট্র্যাকিং</li>
+          <li>হ্যান্ডনোট/শর্ট নোট ও সমস্যার সেট</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>যোগ্যতা/অর্জন</h3>
+        <ul class="plain">
+          <li>BS/MS in Mathematics, [University]</li>
+          <li>Former/Current Faculty, [Institute] (যদি প্রযোজ্য)</li>
+          <li>[Olympiad/Admission] মেন্টরশিপ অভিজ্ঞতা</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="courses" class="section alt">
+    <div class="container">
+      <h2>কোর্স ও লেভেল</h2>
+      <div class="cards">
+        <div class="card">
+          <h3>Class 9–10 (SSC)</h3>
+          <p>Algebra, Geometry, Trigonometry, Statistics, Creative Questions, MCQ প্র্যাকটিস।</p>
+        </div>
+        <div class="card">
+          <h3>HSC / College</h3>
+          <p>Higher Maths, Calculus, Coordinate Geometry, Vectors, MCQ + Written প্রস্তুতি।</p>
+        </div>
+        <div class="card">
+          <h3>Admission / SAT-Math</h3>
+          <p>ফাস্ট-ট্র্যাক সিলেবাস, শর্টকাট + কনসেপ্ট, পূর্ণ মক-টেস্ট।</p>
+        </div>
+        <div class="card">
+          <h3>Honors 1st–4th Year</h3>
+          <p>Real & Complex Analysis, Linear Algebra, Abstract Algebra, ODE/PDE, Numerical, Topology বেছে নেওয়া সাপোর্ট।</p>
+        </div>
+      </div>
+
+      <details class="syllabus">
+        <summary>ডিটেইল সিলেবাস দেখতে ক্লিক করুন</summary>
+        <div class="syllabus-grid">
+          <div>
+            <h4>School / College</h4>
+            <ul class="plain">
+              <li>Functions, Limits & Derivatives</li>
+              <li>Trigonometric Identities & Applications</li>
+
+Sujon Ahsan, [8/30/2025 6:01 PM]
+<li>Coordinate Geometry, Conics</li>
+              <li>Probability & Statistics basics</li>
+            </ul>
+          </div>
+          <div>
+            <h4>University Core</h4>
+            <ul class="plain">
+              <li>Calculus I–III, Series & Multivariable</li>
+              <li>Linear Algebra (Vector space, Eigen)</li>
+              <li>Real/Complex Analysis (ε-δ, Cauchy-Riemann)</li>
+              <li>Differential Equations, Laplace/FT</li>
+            </ul>
+          </div>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <section id="schedule" class="section">
+    <div class="container">
+      <h2>সাপ্তাহিক রুটিন (উদাহরণ)</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>দিন</th><th>সময়</th><th>কোর্স</th><th>মোড</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>রবি</td><td>7–9 PM</td><td>HSC Higher Math (Batch)</td><td>Online</td></tr>
+            <tr><td>সোম</td><td>6–8 PM</td><td>Class 9–10 (Batch)</td><td>Offline</td></tr>
+            <tr><td>বুধ</td><td>8–9 PM</td><td>Honors: Real Analysis (1:1)</td><td>Online</td></tr>
+            <tr><td>শুক্র</td><td>5–7 PM</td><td>Admission Math Mock</td><td>Online</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="note">নিজের সুবিধা অনুযায়ী টাইম স্লট চাইলে বার্তা দিন—কাস্টম রুটিন করা যাবে।</p>
+    </div>
+  </section>
+
+  <section id="pricing" class="section alt">
+    <div class="container">
+      <h2>ফি ও প্যাকেজ</h2>
+      <div class="cards">
+        <div class="card price">
+          <h3>School/College (Batch)</h3>
+          <p class="amount">৳ <strong>1500</strong> / মাস</p>
+          <ul class="plain">
+            <li>সপ্তাহে ২ দিন</li>
+            <li>ক্লাস রেকর্ডিং + নোট</li>
+          </ul>
+        </div>
+        <div class="card price">
+          <h3>University (1:1)</h3>
+          <p class="amount">৳ <strong>1200</strong> / ঘন্টা</p>
+          <ul class="plain">
+            <li>কাস্টম সিলেবাস</li>
+            <li>সমস্যা সমাধান সেশন</li>
+          </ul>
+        </div>
+        <div class="card price">
+          <h3>Admission Fast-Track</h3>
+          <p class="amount">৳ <strong>3000</strong> / কোর্স</p>
+          <ul class="plain">
+            <li>৪ সপ্তাহ, ৮ টি ক্লাস</li>
+            <li>পূর্ণ মক-টেস্ট</li>
+          </ul>
+        </div>
+      </div>
+      <p class="note">উপরের ফি নমুনা; চূড়ান্ত ফি লোকেশন/ব্যাচ সাইজ অনুযায়ী পরিবর্তিত হতে পারে।</p>
+    </div>
+  </section>
+
+  <section id="testimonials" class="section">
+    <div class="container">
+      <h2>রিভিউ</h2>
+      <div class="cards">
+        <div class="card">
+          <p>“স্যার কঠিন টপিক এমনভাবে বোঝান যে ভুলে যাওয়া মুশকিল। মক-টেস্ট অনেক হেল্পফুল।”</p>
+          <p class="muted">— নুসরাত, HSC</p>
+        </div>
+        <div class="card">
+          <p>“Real Analysis-এ D গ্রেড থেকে A- পর্যন্ত উঠেছি। ১:১ সেশনগুলো লাইফ-সেভার।”</p>
+          <p class="muted">— আরাফাত, Honors 3rd Year</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" class="section alt">
+    <div class="container">
+      <h2>প্রশ্নোত্তর</h2>
+      <details>
+        <summary>অনলাইন ক্লাস কীভাবে হয়?</summary>
+        <p>Zoom/Google Meet, ডিভাইস: মোবাইল/পিসি। ক্লাস শেষে রেকর্ডিং ও PDF নোট দেওয়া হয়।</p>
+      </details>
+      <details>
+        <summary>পেমেন্ট কীভাবে?</summary>
+        <p>বিকাশ/নগদ/ব্যাংক ট্রান্সফার—ভর্তির সময় তথ্য পাঠানো হবে।</p>
+      </details>
+      <details>
+        <summary>ট্রায়াল ক্লাস আছে?</summary>
+        <p>হ্যাঁ, ৩০-মিনিট ফ্রি ট্রায়াল (অনলাইন)।</p>
+      </details>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact">
+    <div class="container grid-2">
+      <div>
+        <h2>যোগাযোগ</h2>
+        <p><strong>ফোন:</strong> <a href="tel:+8801XXXXXXXXX">+8801XXXXXXXXX</a></p>
+
+Sujon Ahsan, [8/30/2025 6:01 PM]
+:root{
+  --bg:#0f172a;        /* slate-900 */
+  --card:#111827;      /* gray-900 */
+  --muted:#94a3b8;     /* slate-400 */
+  --text:#e5e7eb;      /* gray-200 */
+  --accent:#38bdf8;    /* sky-400 */
+  --accent-2:#22c55e;  /* green-500 */
+  --b:#1f2937;         /* gray-800 */
+}
+
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;color:var(--text);background:var(--bg);font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
+a{color:var(--accent);text-decoration:none}
+.container{max-width:1100px;margin:auto;padding:0 16px}
+.section{padding:64px 0}
+.section.alt{background:#0b1224}
+h1,h2,h3{margin:0 0 12px}
+p{line-height:1.7}
+.muted{color:var(--muted);font-size:.95rem}
+.note{margin-top:10px;color:var(--muted)}
+.grid-2{display:grid;gap:24px;grid-template-columns:1.1fr .9fr}
+@media (max-width:900px){.grid-2{grid-template-columns:1fr}}
+.cards{display:grid;gap:16px;grid-template-columns:repeat(4,1fr)}
+@media (max-width:1000px){.cards{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.cards{grid-template-columns:1fr}}
+
+.card{background:var(--card);border:1px solid var(--b);border-radius:14px;padding:18px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+.card.price .amount{font-size:22px;margin:.25rem 0 1rem}
+.card.modes ul{margin:0;padding-left:18px}
+.plain{margin:0;padding-left:18px}
+.ticks li{list-style:none;margin:6px 0;padding-left:26px;position:relative}
+.ticks li::before{content:"✓";position:absolute;left:0;color:var(--accent-2)}
+
+.topbar{position:sticky;top:0;background:rgba(15,23,42,.8);backdrop-filter:blur(8px);z-index:10;border-bottom:1px solid var(--b)}
+.nav{display:flex;align-items:center;justify-content:space-between;padding:10px 0}
+.logo{font-weight:700;font-size:20px}
+.logo span{color:var(--accent)}
+.nav nav a{margin:0 10px}
+.nav .btn.small{padding:6px 10px}
+
+.hero{padding:92px 0;background:radial-gradient(800px 500px at 10% 10%, rgba(56,189,248,.18), transparent 60%), radial-gradient(600px 400px at 90% 10%, rgba(34,197,94,.12), transparent 60%)}
+.hero-grid{display:grid;gap:24px;grid-template-columns:1.3fr .7fr}
+@media (max-width:900px){.hero-grid{grid-template-columns:1fr}}
+.accent{color:var(--accent)}
+.btn{background:var(--accent);color:#001827;border:none;padding:10px 16px;border-radius:10px;font-weight:700;display:inline-block}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.btn:hover{filter:brightness(1.05)}
+.cta a{margin-right:10px}
+
+.table-wrap{overflow-x:auto;border:1px solid var(--b);border-radius:10px}
+table{width:100%;border-collapse:collapse;font-size:.98rem}
+th,td{padding:12px 14px;border-bottom:1px solid var(--b)}
+thead th{background:#0b1224;text-align:left}
+
+.syllabus{margin-top:18px}
+.syllabus summary{cursor:pointer}
+.syllabus-grid{display:grid;gap:12px;grid-template-columns:repeat(2,1fr)}
+@media (max-width:700px){.syllabus-grid{grid-template-columns:1fr}}
+
+.contact .card label{display:block;margin-bottom:10px}
+.contact input,.contact textarea{width:100%;padding:10px;border-radius:8px;border:1px solid var(--b);background:#0b1224;color:var(--text)}
+
+.foot{border-top:1px solid var(--b);padding:18px 0;background:#0b1224}
+.foot-flex{display:flex;justify-content:space-between;align-items:center}
+.back{color:var(--muted)}
