@@ -1,4 +1,4 @@
-Sujon Ahsan, [8/30/2025 6:01 PM]
+
 <!DOCTYPE html>
 <html lang="bn">
 <head>
@@ -97,7 +97,7 @@ Sujon Ahsan, [8/30/2025 6:01 PM]
               <li>Functions, Limits & Derivatives</li>
               <li>Trigonometric Identities & Applications</li>
 
-Sujon Ahsan, [8/30/2025 6:01 PM]
+
 <li>Coordinate Geometry, Conics</li>
               <li>Probability & Statistics basics</li>
             </ul>
@@ -209,7 +209,85 @@ Sujon Ahsan, [8/30/2025 6:01 PM]
         <h2>যোগাযোগ</h2>
         <p><strong>ফোন:</strong> <a href="tel:+8801XXXXXXXXX">+8801XXXXXXXXX</a></p>
 
-Sujon Ahsan, [8/30/2025 6:01 PM]
+* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Body */
+body {
+  background-color: #ffffff; /* সাদা ব্যাকগ্রাউন্ড */
+  color: #333333; /* সাধারণ টেক্সট কালো */
+  line-height: 1.6;
+}
+
+/* Header / Navbar */
+header {
+  background-color: #cc0000; /* গাঢ় লাল */
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+/* Navigation */
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  padding: 40px;
+  text-align: center;
+}
+
+/* Buttons */
+a.button, button {
+  display: inline-block;
+  background-color: #cc0000; /* লাল */
+  color: #ffffff;
+  padding: 10px 20px;
+  margin: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+a.button:hover, button:hover {
+  background-color: #ff3333; /* হালকা লাল */
+}
+
+/* Footer */
+footer {
+  background: #cc0000;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
 :root{
   --bg:#0f172a;        /* slate-900 */
   --card:#111827;      /* gray-900 */
@@ -274,4 +352,5 @@ thead th{background:#0b1224;text-align:left}
 
 .foot{border-top:1px solid var(--b);padding:18px 0;background:#0b1224}
 .foot-flex{display:flex;justify-content:space-between;align-items:center}
+
 .back{color:var(--muted)}
